@@ -1,0 +1,52 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	Hotel LUX
+ * @version 	1.0.0
+ * 
+ * High Resolution (Retina) Displays CSS Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5), 
+	only screen and (-moz-min-device-pixel-ratio: 1.5), 
+	only screen and (-o-min-device-pixel-ratio: 3/2), 
+	only screen and (min-device-pixel-ratio: 1.5), 
+	only screen and (min--moz-device-pixel-ratio: 1.5), 
+	only screen and (-webkit-min-device-pixel-ratio: 1.5), 
+	only screen and (min-resolution: 144dpi) {
+	
+	.header_mid .logo_wrap .logo img, 
+	.cmsmasters_footer_default .footer_logo img {
+		display:none;
+	}
+	
+	.header_mid .logo_wrap .logo .logo_retina, 
+	.cmsmasters_footer_default .footer_logo > .footer_logo_retina {
+		display:inline-block;
+	}
+	
+}
+
+
+/*
+     FILE ARCHIVED ON 15:02:18 Feb 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:26:37 Aug 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.517
+  exclusion.robots: 0.021
+  exclusion.robots.policy: 0.008
+  esindex: 0.011
+  cdx.remote: 26.173
+  LoadShardBlock: 192.402 (3)
+  PetaboxLoader3.datanode: 135.489 (4)
+  PetaboxLoader3.resolve: 187.325 (3)
+  load_resource: 152.934
+*/
